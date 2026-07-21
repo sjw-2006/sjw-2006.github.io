@@ -1,7 +1,7 @@
 ---
-permalink: /
-title: "Chenbin ZHANG"
-author_profile: true
+permalink: "https://sjw-2006.github.io"
+title: "Sun Jiawei"
+author_profile: an undergraduate student in the class of 2022, majoring in Internet of Things Engineering at School of Artificial Intelligence, Hebei University of Technology
 redirect_from:
   - /about/
   - /about.html
