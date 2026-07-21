@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "HOME PAGE"
+title                    : "Sun Jiawei"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://ace-trump-tech.github.io/Chenbin_ZHANG.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Sun Jiawei"
+description              : &description "an undergraduate student in the class of 2024, majoring in Internet of Things Engineering at School of Artificial Intelligence, Hebei University of Technology."
+url                      : https://sjw-2006.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ace-trump-tech.github.io/Chenbin_ZHANG.github.io"
 
@@ -22,13 +22,13 @@ repository               : "ace-trump-tech.github.io/Chenbin_ZHANG.github.io"
 author:
   # Biographic information
   avatar           : "picture1.png"
-  name             : "Chenbin ZHANG"
+  name             : "Sun Jiawei"
   pronouns         : # example: "she/her"  
-  bio              : "an undergraduate student in the class of 2021, majoring in Intelligent Science and Technology at College of Automation & College of Artificial Intelligence, Nanjing University of Posts and Telecommunications."
-  location         : "Nanjing China"
+  bio              : "an undergraduate student in the class of 2024, majoring in Internet of Things Engineering at School of Artificial Intelligence, Hebei University of Technology."
+  location         : "Tianjin China"
   #employer         : "Red Brick University"
   uri              : # URL
-  email            : "b21041417@njupt.edu.cn" 
+  email            : "sjw200601@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
