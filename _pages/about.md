@@ -9,24 +9,30 @@ redirect_from:
 
 ## About Me
 
-Chenbin Zhang is an undergraduate student in the class of 2021, majoring in Intelligent Science and Technology at the College of Automation & College of Artificial Intelligence, Nanjing University of Posts and Telecommunications. He is currently enrolled in an integrated program leading to a Bachelor's, Master's, and Ph.D. in Control Science and Engineering.
+Jiawei Sun is an undergraduate student in the class of 2024, majoring in Internet of Things Engineering at the School of Artificial Intelligence and Data Science, Hebei University of Technology. She is a League member with outstanding academic performance, ranking top 10% in her major.
 
-With a passion for building and innovating, Zhang has open-sourced numerous impactful research and practice projects. His work has been recognized by the community, including the [DeltaForce-OBS-Locker](https://github.com/ace-trump-tech/DeltaForce-OBS-Locker) project, which has garnered thousands of stars and forks on GitHub.
-
-For more detailed information, please refer to his [Baidu Baike entry](https://baike.baidu.com/item/%E5%BC%A0%E6%99%A8%E6%96%8C).
+She actively participates in high-level innovation competitions, has obtained 5 invention patents and software copyrights, and has won a total of 7 provincial and national competition awards. She also serves in several student organizations to provide volunteer and service work for peers. All her competition achievements and intellectual property fully demonstrate her comprehensive innovation and engineering capabilities.
 
 ## Education
 
-- **Nanjing University of Posts and Telecommunications** (Sep 2021 – Present)
-  - B.Sc. in Intelligent Science and Technology
-  - Major Ranking: 11/62
+- **Hebei University of Technology** (Sep 2024 – Present)
+  - B.Sc. in Internet of Things Engineering, School of Artificial Intelligence and Data Science
+  - Major Ranking: 11/139
 
-## Research & Open Source Projects
+## Research & Intellectual Property
 
-- **DeltaForce-OBS-Locker**
-  - An open-source project that has gained thousands of stars and forks on GitHub, demonstrating strong community engagement and technical impact.
-  - Repository: [https://github.com/ace-trump-tech/DeltaForce-OBS-Locker](https://github.com/ace-trump-tech/DeltaForce-OBS-Locker)
-
+- **Invention Patents**
+- *Granted Invention Patent*
+  - Name：一种基于特征解耦域自适应的光伏电站检测方法
+  - Inventor Rank: 1st Inventor, Status: Granted
+    
+- *Accepted Patent Application*
+  - Name：一种基于缺陷反馈校正机制的光伏输出功率预测方法
+  - Inventor Rank: Core Inventor, Accepted & Pending Examination  
+ 
+  - Name：一种基于一致性语义知识挖掘的在线缺陷检测方法
+  - Inventor Rank: Core Inventor, Accepted & Pending Examination
+    
 - **Graph-based Meteorological Forecasting**
   - Led a key school-level STITP project: "Research on Meteorological Forecasting Based on Graph Neural Networks."
   - Designed and constructed a GCN (Graph Convolutional Network) model to integrate spatio-temporal information for predicting meteorological indicators.
