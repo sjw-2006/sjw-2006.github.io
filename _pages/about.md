@@ -33,18 +33,17 @@ She actively participates in high-level innovation competitions, has obtained 5 
   - Name：一种基于一致性语义知识挖掘的在线缺陷检测方法
   - Inventor Rank: Core Inventor, Accepted & Pending Examination
     
-- **Graph-based Meteorological Forecasting**
-  - Led a key school-level STITP project: "Research on Meteorological Forecasting Based on Graph Neural Networks."
-  - Designed and constructed a GCN (Graph Convolutional Network) model to integrate spatio-temporal information for predicting meteorological indicators.
+- **Computer Software Copyrights**
+  - Name：基于深度证据学习的光伏电池隐裂及微缺陷智能识别系统V1.0
+  - Author Rank: 1st Copyright Holder, Status: Fully Registered
 
-- **Intelligent Face Recognition Access Control System** (Mar 2024 - School-level Programming Project)
-  - Project Leader. Utilized OpenCV, MindSpore, and dlib for real-time face recognition. Integrated hardware (Raspberry Pi 4B, Arduino UNO) to control MLX90614, servos, and buzzers to implement a complete access control system.
+  - Name：基于多模态大模型的光伏电池组件缺陷快速定位软件V1.0 
+  - Author Rank: 2nd Copyright Holder, Status: Fully Registered
 
-- **Digital Pulse Width Modulation Pulse Signal Generator** (Nov 2023 - School-level Electronic Circuit Project Design)
-  - Project Leader. Developed a pulse signal generator on the ISE Design platform with button-controlled, adjustable duty cycle, visualized on a digital tube display.
+- **College Students' Innovation and Entrepreneurship Training Program**
+  - Person In Charge, University-level Key Project, 2025
+  - Person In Charge, Provincial General Project, 2026
 
-- **Design and Implementation of a Laser Harp** (May 2023 - School-level Open Experimental Project)
-  - Main Participant. Programmed a microcontroller to turn laser beams into musical notes, creating a functional and interactive laser harp capable of playing various music.
 
 ## Skills & Certifications
 
