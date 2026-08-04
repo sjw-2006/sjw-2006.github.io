@@ -14,7 +14,7 @@ name                     : &name "Sun Jiawei"
 description              : &description "an undergraduate student in the class of 2024, majoring in Internet of Things Engineering at School of Artificial Intelligence, Hebei University of Technology."
 url                      : https://sjw-2006.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ace-trump-tech.github.io/Chenbin_ZHANG.github.io"
+repository               : "sjw-2006/sjw-2006.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
