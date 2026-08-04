@@ -18,7 +18,7 @@ She actively participates in high-level innovation competitions, has obtained 5 
 
 ## Research & Intellectual Property
 
-- **Invention Patents**
+- **Invention Patents:**
 - *Granted Invention Patent*
   - Name：一种基于特征解耦域自适应的光伏电站检测方法
   - Inventor Rank: 1st Inventor, Status: Granted
@@ -30,42 +30,48 @@ She actively participates in high-level innovation competitions, has obtained 5 
   - Name：一种基于一致性语义知识挖掘的在线缺陷检测方法
   - Inventor Rank: Core Inventor, Accepted & Pending Examination
     
-- **Computer Software Copyrights**
+- **Computer Software Copyrights:**
   - Name：基于深度证据学习的光伏电池隐裂及微缺陷智能识别系统V1.0
   - Author Rank: 1st Copyright Holder, Status: Fully Registered
 
   - Name：基于多模态大模型的光伏电池组件缺陷快速定位软件V1.0 
   - Author Rank: 2nd Copyright Holder, Status: Fully Registered
 
-- **College Students' Innovation and Entrepreneurship Training Program**
+- **College Students' Innovation and Entrepreneurship Training Program:**
   - Person In Charge, University-level Key Project, 2025
   - Person In Charge, Provincial General Project, 2026
 
 
 ## Skills & Certifications
 
-- **Programming Languages:** Python, C
-- **Development Platforms:** ISE Design, Jieliuchuang EDA
+- **Programming & Technology:** Python, C, IoT Embedded Development, Deep Learning, LLM
 - **Certificates:** CET-4, CET-6
 
 ## Honors & Awards
 
+- **National Competition Awards:**
+  - National First Prize, 19th "Challenge Cup" National College Students' Extracurricular Academic Science and Technology Competition (AI Track)
+  - National First Prize, National University Business Elite Challenge
+  - National First Prize, iCAN National College Students' Innovation and Entrepreneurship Competition
+  - National First Prize, North China Five Provinces Computer Application Competition
+
+- **Provincial Competition Awards:**
+  - Hebei Provincial First Prize, National College Students E-commerce "Innovation, Creativity and Entrepreneurship" Competition
+  - Best Creativity Award & Best Entrepreneurship Award, Provincial E-commerce Competition
+    
 - **Personal Honors:**
-  - Huawei-Ministry of Education 2022-2023 Intelligent Infrastructure "Future Star"
-  - Outstanding Young Volunteer, Outstanding League Member
-  - Nanjing University of Posts and Telecommunications 2022-2023 Comprehensive Progress Scholarship
-  - Advanced Individual of Nanjing University of Posts and Telecommunications
+  - TÜV Innovation Scholarship
+  - First-class Scholarship, Hebei University of Technology
+  - Merit Student, Hebei University of Technology
+  - Excellent Class Cadre, Hebei University of Technology
 
-- **Competition Achievements:**
-  - 2024 U.S. Collegiate Mathematical Modeling Competition S Award
-  - Nanjing University of Posts and Telecommunications 2024 "Challenge Cup" Competition Bronze Award
-  - 2023 (15th) Mathematical Modeling Competition Third Prize
-  - Second Smart City Technology Competition Third Prize
-  - 2023 College Student Advertising Art Competition Third Prize
-  - Third College Student Financial Literacy Competition First Prize
-  - 2022 China Youth Giant Panda Guardian Plan Honorary Award
 
-## Work Experience
+## Student Work Experience
 
-- **Publicity Committee Member, Class B210414**
-  - Proficient in PPT creation and experienced in article writing.
+- Class Life Committee Member & Financial Aid Coordinator (2024 – Present)
+- Member, Innovation and Entrepreneurship Service Center, School Student Union (2024–2025 Academic Year)
+- President of AI Department, University Association of Science and Technology (2026 – Present)
+- President of Office Department, Field Classroom Self-Governance Committee, Hebei University of Technology (2026 – Present)
+
+## Training Experience
+- Jun. 2026, Participated in Alibaba Cloud AI Era Operation New Force Training Program
