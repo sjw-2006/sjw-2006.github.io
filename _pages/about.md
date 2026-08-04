@@ -1,7 +1,8 @@
 ---
-permalink: "https://sjw-2006.github.io"
+layout: about
+permalink: /about/
 title: "Sun Jiawei"
-author_profile: an undergraduate student in the class of 2024, majoring in Internet of Things Engineering at School of Artificial Intelligence, Hebei University of Technology
+author_profile: true
 ---
 
 ## About Me
